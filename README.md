@@ -1,7 +1,10 @@
 # BAN6420-Module4 Assingment visualizing the Netflix dataset
 Instructions on accessing and interpreting your Python and R code:
+
 Python code:
+
 Import the prepared Netflix_shows_movies dataset
+
 Read the Netflix dataset CSV file
 Import libraries such as pandas, matplotlib and seaborn
 View the first few rows of the data to explore the data
